@@ -56,7 +56,7 @@ ibs-insights/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 📊 Data Collected
