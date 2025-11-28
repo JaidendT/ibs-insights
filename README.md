@@ -27,30 +27,31 @@ This project is both a learning environment (SQL, Python, Bayesian modelling, ML
 ---
 
 ## 📁 Project Structure
+```text
 ibs-insights/
 │
 ├── data/
-│ ├── raw/
-│ ├── processed/
-│ └── external/
+│   ├── raw/
+│   ├── processed/
+│   └── external/
 │
 ├── notebooks/
-│ ├── exploration/
-│ └── modeling/
+│   ├── exploration/
+│   └── modeling/
 │
 ├── src/
-│ ├── data_collection/
-│ ├── preprocessing/
-│ ├── analysis/
-│ └── models/
+│   ├── data_collection/
+│   ├── preprocessing/
+│   ├── analysis/
+│   └── models/
 │
 ├── app/
 │
 ├── db/
-│ └── schema.sql
+│   └── schema.sql
 │
 ├── config/
-│ └── settings.yaml
+│   └── settings.yaml
 │
 ├── .gitignore
 ├── requirements.txt
